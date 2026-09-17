@@ -1,5 +1,5 @@
 {
   "name": "Home Assistant Add-on: watermeter",
-  "url": "https://github.com/nohn/watermeter",
-  "maintainer": "Sebastian Nohn <sebastian@nohn.net>"
+  "url": "https://github.com/aitrus22/watermeter",
+  "maintainer": "Fork by Aitrus, original by Sebastian Nohn (nohn/watermeter)"
 }
