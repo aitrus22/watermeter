@@ -12,3 +12,5 @@ ports:
 ports_description:
   3000/tcp: "Web UI / API (configure.php)"
 webui: "http://[HOST]:[PORT:3000]/configure.php"
+map:
+  - share:rw
