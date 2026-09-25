@@ -14,3 +14,5 @@ ports_description:
 webui: "http://[HOST]:[PORT:3000]/configure.php"
 map:
   - share:rw
+  - type: media
+    read_only: true
